@@ -15,4 +15,6 @@ with your own API key.
 
 pip install requests pillow
 python main.py
+
+
 NOTE:AFTER TYPING THE IMAGE OF OBJECT YOU WANT YOU MUST CLOSE THE IMAGE OF THE PREVIOUS OBJECT IN ORDER TO TYPE NEW ONE
