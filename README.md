@@ -18,5 +18,12 @@ python main.py
 
 
 NOTE:AFTER TYPING THE IMAGE OF OBJECT YOU WANT YOU MUST CLOSE THE IMAGE OF THE PREVIOUS OBJECT IN ORDER TO TYPE NEW ONE
-<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/cfb98422-102b-457d-a8bc-e39f65075311" />
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/59796f7f-aa4f-4bf1-9e59-59cf7825e22f" />
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/9c2ec6e2-3bc7-419b-ae4e-0c3ab14fab37" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/935edc32-5a93-432e-bbb9-f3a7a87d6032" />
+
+
+
+
+
 
